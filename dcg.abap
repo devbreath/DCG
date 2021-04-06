@@ -1,6 +1,6 @@
 *&---------------------------------------------------------------------*
 *& Report  ZBC_DOMAIN_CLASS_GENERATOR
-*& GIT:    https://github.com/devbreath/DCG
+*& GIT:            https://github.com/devbreath/DCG/blob/main/dcg.abap
 *& Description:
 *& Generate class with constants for domain/data element. It can used own
 *& code and search dependecies of domain values via where used list
